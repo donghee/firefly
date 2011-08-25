@@ -2,4 +2,5 @@ Programmable LED light
 
 parts
  - MSP430G2231
- - 
+ - WS2801
+
