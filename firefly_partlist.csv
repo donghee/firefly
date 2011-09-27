@@ -1,0 +1,41 @@
+Partlist
+
+Exported from firefly.sch at 9/16/11 5:54 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value             Device               Package           Library       Sheet
+
+BAT1                       BATTERYAA            BATTERY-AA        SparkFun      1
+C1       0.1uF             C-EUC2012            C2012             resistor      1
+C2       0.1uF             C-EUC2012            C2012             resistor      1
+C3       0.1uF             C-EUC2012            C2012             resistor      1
+C4                         C-EUC2012            C2012             resistor      1
+C5       10uF              CAP_POL1206          EIA3216           SparkFun      1
+C6       47uF              CAP_POL3528          EIA3528           SparkFun      1
+D1       1N4148DO35-7      DIODESMA             SMA-DIODE         SparkFun      1
+D2       MBRA140           DIODESMA             SMA-DIODE         SparkFun      1
+G2231                      G2X[2/3]1---PW14     PW14              TI_MSP430_v16 1
+IC1                        LM358D               SO08              linear        1
+IC3                        V_REG_NCP1400SOT23-5 SOT23-5           SparkFun      1
+IC4                        24LC256P             DIL8              microchip     1
+JP1                        PINHD-1X5            1X05              pinhead       1
+L1       22uH              INDUCTORCR54         CR54              SparkFun      1
+LED1                       LED-TRICOLOR-5050    LED-TRICOLOR-5050 SparkFun      1
+LED6                       LED1206              LED-1206          SparkFun      1
+LED7                       LED1206              LED-1206          SparkFun      1
+R1       10k               R-US_M2012           M2012             resistor      1
+R2       2.2k              R-US_M2012           M2012             resistor      1
+R3       100k              R-US_M2012           M2012             resistor      1
+R4       100k              R-US_M2012           M2012             resistor      1
+R5       10k               R-US_M2012           M2012             resistor      1
+R6       27                R-US_M2012           M2012             resistor      1
+R7       27                R-US_M2012           M2012             resistor      1
+R8       27                R-US_M2012           M2012             resistor      1
+R9       10k               R-US_M2012           M2012             resistor      1
+R10      10k               R-US_M2012           M2012             resistor      1
+S1       ITS-1187(SMD)     TAC_SWITCHPTH        TACTILE-PTH       SparkFun      1
+S2       SWITCH-DPDTEG2211 SWITCH-DPDTEG2211    EG2211            SparkFun      1
+S3                         TAC_SWITCHPTH        TACTILE-PTH       SparkFun      1
+U1                         WS2801               SOP-14            SparkFun      1
+U2                         MIC                  MIC9.7MM          fetm          1

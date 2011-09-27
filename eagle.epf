@@ -1,17 +1,18 @@
 [Eagle]
 Version="05 11 00"
-Platform="Windows"
+Platform="Linux"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="C:/Program Files (x86)/EAGLE-5.11.0/lbr/frames.lbr"
+UsedLibrary="silverywaveindustry.lbr"
+UsedLibrary="donghee.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="175 175 774 574"
+Loc="0 32 1289 861"
 State=2
 Number=0
 
